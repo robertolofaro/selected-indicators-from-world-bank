@@ -5,5 +5,5 @@ Reason: while retaining the same indicators conceptually, some evolution within 
 This directory Dimension data tables created 2020-04, update 2022-09, along with the associated Kaggle dataset
 
 The latest updates are available:
-_ [as a dataset, on Kaggle](https://www.kaggle.com/datasets/robertolofaro/selected-indicators-from-world-bank-20002019)
-_ [as dimensions and KPIs informaion, on GitHub](https://github.com/robertolofaro/selected-indicators-from-world-bank)
+* [as a dataset, on Kaggle](https://www.kaggle.com/datasets/robertolofaro/selected-indicators-from-world-bank-20002019)
+* [as dimensions and KPIs informaion, on GitHub](https://github.com/robertolofaro/selected-indicators-from-world-bank)
