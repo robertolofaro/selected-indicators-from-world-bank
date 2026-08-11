@@ -27,7 +27,7 @@ To ease re-use by AIs, the table have been extended with all the metadata availa
 
 # indicators discountined in 2021
 
-The following indicators where part of the project [Doing Business project](http://www.doingbusiness.org/), that has been discountined in 2021.
+The following indicators were part of the project [Doing Business project](http://www.doingbusiness.org/), that has been discountined in 2021.
 
 The Press release announcing termination of the project "Doing Business" [is available here](https://www.worldbank.org/en/news/statement/2021/09/16/world-bank-group-to-discontinue-doing-business-report)
 
