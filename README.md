@@ -20,8 +20,8 @@ The choice has been to have a single unified facttable, directly selected as a s
 This repository contains "dimension tables", i.e. descriptions and additional information to complement the datapoints within the datamart:
 1. dimension_country.csv: country identification and metadata
 2. dimension_indicator.csv: selected indicators identification and metadata
-3- dimension_time: years 1960-2025
-3. dimension_indicator_xrefprevious.csv: some indicators have been removed from the source dataset (see next section).
+3. dimension_time: years 1960-2025
+4. dimension_indicator_xrefprevious.csv: some indicators have been removed from the source dataset (see next section).
 
 To ease re-use by AIs, the table have been extended with all the metadata available
 
